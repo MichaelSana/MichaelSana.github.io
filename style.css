@@ -8,6 +8,7 @@ body{
     position: fixed;
     background-color: #333;
     overflow: hidden;
+    border-bottom: #9A2A2A;
   }
   
   .topnav a {
@@ -33,4 +34,5 @@ body{
   .content{
     background-color: #333;
     text-align: left;
+    color: white;
   }
