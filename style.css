@@ -72,3 +72,18 @@ body{
     text-align: left;
     size: 12px;
   }
+  .download_resume{
+    background-color: black;
+    color: white;
+    text-align: left;
+    size: 24px;
+  }
+
+  .download_resume:hover{
+    color: blue;
+  }
+
+  .resume{
+    text-align: center;
+    background-image: './resume';
+  }
