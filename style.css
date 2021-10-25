@@ -36,3 +36,16 @@ body{
     text-align: left;
     color: white;
   }
+
+  .about_me{
+    background-color: #333;
+    width: 400px;
+    height: 800px;
+  }
+
+  .profile_picture{
+    background-image: url('./pictures/profile_picture.jpeg');
+    background-size: cover; 
+    height:480px; 
+    padding-top:80px;
+  }
