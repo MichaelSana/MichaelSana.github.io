@@ -39,10 +39,12 @@ body{
 
   .about_me{
     background-color: #333;
-    width: 200px;
+    width: 250px;
     height: 800px;
     border-right: #fff;
+    border-bottom: #fff;
     border-style: solid;
+    float: left;
   }
 
   .profile_picture{
@@ -95,4 +97,11 @@ body{
     text-align: left;
     size: 12px;
     color: blue;
+  }
+
+  .main_content{
+    background-color: #333;
+    width: 710px;
+    height: auto;
+    float: right;
   }
