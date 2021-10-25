@@ -80,10 +80,14 @@ body{
   }
 
   .download_resume:hover{
+    height: 50px;
+    width: 50px;
     color: blue;
   }
 
   .resume{
     text-align: center;
     background-image: './resume';
+    height: auto;
+    width: auto;
   }
