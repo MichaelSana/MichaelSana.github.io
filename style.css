@@ -39,7 +39,7 @@ body{
 
   .about_me{
     background-color: #333;
-    width: 250px;
+    width: 200px;
     height: 800px;
     border-right: #fff;
     border-bottom: #fff;
@@ -78,6 +78,7 @@ body{
     color: white;
     text-align: left;
     size: 24px;
+    padding-top: 40px;
   }
 
   .download_resume:hover{
@@ -88,7 +89,7 @@ body{
 
   .resume{
     text-align: center;
-    background-image: './resume';
+    background-image: './Resume.pdf';
     height: auto;
     width: auto;
   }
@@ -101,7 +102,12 @@ body{
 
   .main_content{
     background-color: #333;
-    width: 730px;
+    width: 760px;
+    padding-top: 40px;
     height: auto;
     float: right;
+    text-align: left;
+    color: #fff;
   }
+
+
