@@ -57,7 +57,7 @@ body{
   .name{
     background-color: #333;
     color: white;
-    width: 200px;
+    width: 150px;
     height: auto;
     padding-top: 10px;
     text-align: left;
@@ -67,7 +67,7 @@ body{
   .information{
     background-color: #333;
     color: white;
-    width: 400px;
+    width: 150px;
     height: auto;
     padding-top: 5px;
     text-align: left;
@@ -101,7 +101,7 @@ body{
 
   .main_content{
     background-color: #333;
-    width: 710px;
+    width: 730px;
     height: auto;
     float: right;
   }
