@@ -39,8 +39,8 @@ body{
 
   .about_me{
     background-color: #333;
-    width: 200px;
-    height: 800px;
+    width: auto;
+    height: auto;
     border-right: #fff;
     border-bottom: #fff;
     border-style: solid;
@@ -67,7 +67,7 @@ body{
   .information{
     background-color: #333;
     color: white;
-    width: 150px;
+    width: auto;
     height: auto;
     padding-top: 5px;
     text-align: left;
