@@ -52,6 +52,7 @@ body{
     background-size: cover; 
     height:150px; 
     padding-top: 40px;
+    text-align: center;
   }
 
   .name{
@@ -60,7 +61,7 @@ body{
     width: 150px;
     height: auto;
     padding-top: 10px;
-    text-align: left;
+    text-align: center;
     size: 24px;
   }
 
@@ -74,11 +75,11 @@ body{
     size: 12px;
   }
   .download_resume{
-    background-color: black;
+    background-color: #333;
     color: white;
     text-align: left;
     size: 24px;
-    padding-top: 40px;
+    padding-top: 50px;
   }
 
   .download_resume:hover{
@@ -89,7 +90,7 @@ body{
 
   .resume{
     text-align: center;
-    background-image: './Resume.pdf';
+    background-image: 'Resume.pdf';
     height: auto;
     width: auto;
   }
@@ -102,10 +103,9 @@ body{
 
   .main_content{
     background-color: #333;
-    width: 760px;
+    width: auto;
     padding-top: 40px;
     height: auto;
-    float: right;
     text-align: left;
     color: #fff;
   }
